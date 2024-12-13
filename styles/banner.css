@@ -1,0 +1,14 @@
+.banner {
+    background-color: rgba(0, 0, 255, 0.534);
+    color: var(--branco);
+    text-align: center;
+}
+
+.banner_titulo {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.banner__texto {
+    font-weight: 500;
+}
